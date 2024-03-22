@@ -1,1 +1,3 @@
 # TabTimer
+
+TabTimer is a powerful Chrome extension that provides valuable insights into your browsing habits. With TabTimer, you can easily track the amount of time you spend on each website, allowing you to gain a better understanding of your online activities. This extension goes beyond simple time tracking, offering detailed analytics and visualizations to help you identify patterns and make informed decisions about your browsing behavior. Whether you're looking to increase productivity, manage distractions, or simply gain a better understanding of your online habits, TabTimer is the perfect tool for you.
